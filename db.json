@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "title": "Zadanie 1",
+      "desc": "Opis",
+      "addDate": "2025-05-01",
+      "endDate": "2025-05-20",
+      "done": false,
+      "id": "1a08"
+    },
+    {
+      "title": "Zadanie 2",
+      "desc": "Opis",
+      "addDate": "2025-04-24",
+      "endDate": "2025-05-15",
+      "done": true,
+      "id": "9bbb"
+    },
+    {
+      "title": "Zadanie 3",
+      "desc": "Opis",
+      "addDate": "2025-05-12",
+      "endDate": "2025-05-29",
+      "done": true,
+      "id": "d969"
+    },
+    {
+      "title": "Nowe zadanie #1 edit",
+      "desc": "Ważny opis edit",
+      "addDate": "2025-05-21T17:20:56.002Z",
+      "endDate": "2025-05-23T00:00:00.000Z",
+      "done": false,
+      "id": "adfa"
+    },
+    {
+      "title": "Nowe zadanie #2",
+      "desc": "Edytowany",
+      "addDate": "2025-05-21T17:28:05.684Z",
+      "endDate": "2025-05-15T00:00:00.000Z",
+      "done": false,
+      "id": "3d7d"
+    }
+  ]
+}
