@@ -25,20 +25,20 @@
       "id": "d969"
     },
     {
-      "title": "Nowe zadanie #1 edit",
-      "desc": "Ważny opis edit",
-      "addDate": "2025-05-21T17:20:56.002Z",
-      "endDate": "2025-05-23T00:00:00.000Z",
-      "done": false,
-      "id": "adfa"
-    },
-    {
       "title": "Nowe zadanie #2",
       "desc": "Edytowany",
       "addDate": "2025-05-21T17:28:05.684Z",
-      "endDate": "2025-05-15T00:00:00.000Z",
+      "endDate": "2025-05-30T00:00:00.000Z",
       "done": false,
       "id": "3d7d"
+    },
+    {
+      "id": "dcaf",
+      "title": "Nowe zadanie",
+      "desc": "ertrsdfsddfsd",
+      "addDate": "2025-05-26T10:02:03.421Z",
+      "endDate": "2025-05-29T00:00:00.000Z",
+      "done": false
     }
   ]
 }
